@@ -1,7 +1,7 @@
 
 """
 Flash Demo: GA4 → AI Persona Generation → Instant Ad‑Copy Draft
-Author: ChatGPT (for Brian M. Green)
+Author: Brian M. Green
 Description: Simulates a governance‑first AI pipeline that ingests GA4 data,
 hashes PII, segments sessions with an LLM (stubbed), and drafts ad copy.
 """
